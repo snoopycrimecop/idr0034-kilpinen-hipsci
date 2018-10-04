@@ -5,6 +5,8 @@ continue: "true"
 transfer: "ln_s"
 exclude: "clientpath"
 checksum_algorithm: "File-Size-64"
+parallel_upload: "50"
+skip: "checksum"
 logprefix: "logs/"
 output: "yaml"
 columns:
