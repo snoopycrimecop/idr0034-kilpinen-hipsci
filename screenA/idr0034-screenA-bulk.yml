@@ -1,4 +1,12 @@
 ---
 target: "Screen:name:idr0034-kilpinen-hipsci/screenA"
-include: "../../bulk.yml"
 path: "idr0034-screenA-plates.tsv"
+continue: "true"
+transfer: "ln_s"
+exclude: "clientpath"
+checksum_algorithm: "File-Size-64"
+logprefix: "logs/"
+output: "yaml"
+columns:
+  - name
+  - path
