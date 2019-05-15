@@ -43,7 +43,8 @@ Term Source URI	http://purl.obolibrary.org/obo/	http://www.ebi.ac.uk/efo/	http:/
 # Screen; this section should be repeated if a study contains multiple screens							
 							
 Screen Number	1						
-Comment[IDR Screen Name]	idr0034-kilpinen-hipsci/screenA						
+Comment[IDR Screen Name]	idr0034-kilpinen-hipsci/screenA		
+Screen Sample Type	cell
 Screen Description	Cellular phenotyping of 28 human induced pluripotent stem cell lines from 14 donors within the framework of the HipSci project. Cells are plated sparsely, 3000 per 96 well for 24 hours on wells coated with three diverse concentrations of Fibronectin. Note the images relating to the publication 'Common genetic variation drives molecular heterogeneity in human iPSCs' were released in May 2017.						
 Screen Size	Plates: 29	5D Images:6156	Planes:24624	Average Image Dimension (XYZCT):	Total Tb:0.11		
 Screen Example Images	https://idr.openmicroscopy.org/webclient/?show=well-1319381	https://idr.openmicroscopy.org/webclient/img_detail/3271621/	experiment_27;D10				
