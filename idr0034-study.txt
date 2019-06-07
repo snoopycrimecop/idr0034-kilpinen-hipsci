@@ -11,7 +11,7 @@ Study Organism Term Source REF	NCBITaxon
 Study Organism Term Accession	NCBITaxon_9606						
 Study Screens Number	1						
 Study External URL	http://www.hipsci.org/	https://www.ebi.ac.uk/biostudies/studies/S-BSMS5/					
-Study Public Release Date													
+Study Public Release Date	2017-05-10												
 Study Version History	In February 2019, this screen was extended and 87 human induced pluripotent stem cell lines from 62 donors were added. All data from this study is included in idr0037-vigilante-hipsci.
 
 # Study Publication							
