@@ -16,8 +16,8 @@ Study Version History	In February 2019, this screen was extended and 87 human in
 
 # Study Publication							
 Study PubMed ID	28489815						
-Study Publication Title	Common genetic variation drives molecular heterogeneity in human iPSCs						
-Study Author List	Helena Kilpinen, Angela Goncalves, Andreas Leha, Vackar Afzal, Sofie Ashford, Sendu Bala, Dalila Bensaddek, Francesco Paolo Casale, Oliver Culley, Petr Danecek, Adam Faulconbridge, Peter Harrison, Davis McCarthy, Shane A McCarthy, Ruta Meleckyte, Yasin Memari, Nathalie Moens, Filipa Soares, Ian Streeter, Chukwuma A Agu, Alex Alderton, Rachel Nelson, Sarah Harper, Minal Patel, Laura Clarke, Reena Halai, Christopher M Kirton, Anja Kolb-Kokocinski, Philip Beales, Ewan Birney, Davide Danovi, Angus I Lamond, Willem H Ouwehand, Ludovic Vallier, Fiona M Watt, Richard Durbin, Oliver Stegle, Daniel J Gaffney
+Study Publication Title	Common genetic variation drives molecular heterogeneity in human iPSCs.						
+Study Author List	Kilpinen H, Goncalves A, Leha A, Afzal V, Alasoo K, Ashford S, Bala S, Bensaddek D, Casale FP, Culley OJ, Danecek P, Faulconbridge A, Harrison PW, Kathuria A, McCarthy D, McCarthy SA, Meleckyte R, Memari Y, Moens N, Soares F, Mann A, Streeter I, Agu CA, Alderton A, Nelson R, Harper S, Patel M, White A, Patel SR, Clarke L, Halai R, Kirton CM, Kolb-Kokocinski A, Beales P, Birney E, Danovi D, Lamond AI, Ouwehand WH, Vallier L, Watt FM, Durbin R, Stegle O, Gaffney DJ
 Study PMC ID	PMC5524171						
 Study DOI	https://doi.org/10.1038/nature22403						
 							
